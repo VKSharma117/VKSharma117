@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Vinod Sharma 👋
 
-<!--
-**VKSharma117/VKSharma117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Analytics) Student  
+📊 Interested in Data Analytics, SQL, Python & Power BI  
+🌱 Currently learning Data Analysis and Business Intelligence  
+💡 Passionate about solving business problems using data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Skills
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- Data Visualization
+
+---
+
+# 📌 Featured Projects
+
+# Sales Dashboard Analysis
+- Built interactive dashboard using Power BI
+- Analyzed sales trends and KPIs
+
+# IPL Data Analysis
+- Performed data cleaning and visualization
+- Extracted player and team insights
+
+# Customer Churn Analysis
+- Identified churn patterns using Python & SQL
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: your-linkedin-link
+- Email: your-email
+- 
